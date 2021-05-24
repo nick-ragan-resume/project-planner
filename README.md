@@ -18,3 +18,11 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # project-planner
+
+### Use Live Server to Serve  (This is for data/db.json)
+npm install live-server
+
+### run live server
+ npx json-server --watch data/db.json
+
+
