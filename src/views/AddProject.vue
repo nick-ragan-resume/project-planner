@@ -42,6 +42,9 @@ export default {
     background: white;
     padding: 20px;
     border-radius: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+    
   }
   label {
     display: block;
